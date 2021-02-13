@@ -45,4 +45,6 @@
     <integer name="config_maxVisibleNotificationIcons">8</integer>
     <integer name="config_maxVisibleNotificationIconsWhenDark">8</integer>
 
+    <!-- Show the network traffic monitor on statusbar even if the device has a notch -->
+    <bool name="config_forceShowNetworkTrafficOnStatusBar">true</bool>
 </resources>
