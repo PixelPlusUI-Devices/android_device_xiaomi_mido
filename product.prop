@@ -10,3 +10,10 @@ persist.sys.usb.config=mtp,adb
 ro.adb.secure=0
 ro.secure=0
 ro.debuggable=1
+
+# PixelPlusUI OFFICIAL
+ro.ppui.device_name=Redmi Note 4X
+ro.ppui.version=3.P1
+ro.ppui.version_code=Patreon
+ro.ppui.is_official=true
+ro.ppui.maintainer_name=Smokey
