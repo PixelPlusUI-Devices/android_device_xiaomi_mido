@@ -7,7 +7,7 @@ persist.sys.io.scheduler=bfq
 
 # PixelPlusUI OFFICIAL
 ro.ppui.device_name=Redmi Note 4X
-ro.ppui.version=3.10
-ro.ppui.version_code=Azrael
+ro.ppui.version=3.11
+ro.ppui.version_code=Ignite
 ro.ppui.is_official=true
 ro.ppui.maintainer_name=Smokey
